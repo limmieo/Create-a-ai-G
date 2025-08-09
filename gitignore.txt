@@ -1,0 +1,17 @@
+# SD webui
+models/**
+embeddings/**
+vae/**
+outputs/**
+cache/**
+repositories/**
+venv/**
+temp/**
+tmp/**
+controlnet/**/models/**
+extensions/*/models/**
+.gitmodules
+
+# OS crap
+.DS_Store
+Thumbs.db
